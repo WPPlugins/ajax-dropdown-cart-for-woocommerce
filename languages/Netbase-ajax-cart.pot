@@ -1,0 +1,259 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Netbase ajax cart v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2016-10-03 10:32+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Netbaseteam <project@netbaseteam.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-ajax-drop-cart-widget2.php:81
+msgid "Cart"
+msgstr ""
+
+#: includes/class-ajax-drop-cart-widget2.php:85
+msgid "Title:"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:180 includes/class-ajax-drop-cart.php:655
+msgid "Cart icon"
+msgstr "icon 1"
+
+#: includes/class-ajax-drop-cart.php:317
+msgid "Select style"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:320
+msgid "Available style"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:322
+msgid "Custom color"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:326
+msgid "Select a Menu"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:338
+msgid "Select skin"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:341
+msgid "Pink"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:342
+msgid "Dark"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:343
+msgid "Blue"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:344
+msgid "Red"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:345
+msgid "Orange"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:353
+msgid "Text color"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:379
+msgid "Link color"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:405
+msgid "Link hover color"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:431
+msgid "Button text color"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:457
+msgid "Button background color"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:483
+msgid "Button background hover color"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:509
+msgid "Background color"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:535
+msgid "Border color"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:561
+msgid "Border radius"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:594
+msgid "Select dropdown action "
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:597
+msgid "Click"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:598
+msgid "Hover"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:605
+msgid "Show cart style"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:607
+msgid "Show quantity & subtotal"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:608
+msgid "Only quantity"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:613
+msgid "Icon position"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:616
+msgid "Left"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:616
+msgid "Right"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:623
+msgid "Item name"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:632
+msgid "Item name plural"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:641
+msgid "Show subtotal"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:643
+msgid "Yes"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:645
+msgid "No"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:658
+msgid "Show"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:660
+msgid "Hide"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:665
+msgid "Icon style"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:668
+msgid "Use icon"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:670 includes/class-ajax-drop-cart.php:761
+msgid "Use image"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:675
+msgid "Icon skin "
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:691
+msgid "Icon color"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:717
+msgid "Custom icon image"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:718
+msgid "(preferred size 20x20.)"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:722
+msgid "Image"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:740
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:741
+msgid "Remove image"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:759
+msgid "Choose an image"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:796
+msgid "Settings comming soon !!"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:811
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-ajax-drop-cart.php:847
+msgid "WooCommerce must be installed"
+msgstr ""
+
+#: templates/mini-cart.php:61
+msgid "Remove this item"
+msgstr ""
+
+#: templates/mini-cart.php:69
+msgid "Empty cart!"
+msgstr ""
+
+#: templates/mini-cart.php:78
+msgid "Subtotal"
+msgstr ""
+
+#: templates/mini-cart.php:85
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: templates/mini-cart.php:88
+msgid "Checkout &rarr;"
+msgstr ""
+
+#: templates/summary.php:8
+#, php-format
+msgid "%d "
+msgid_plural "%d "
+msgstr[0] ""
+msgstr[1] ""
